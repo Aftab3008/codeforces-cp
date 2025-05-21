@@ -1,3 +1,5 @@
+package math;
+
 import java.util.Scanner;
 
 //https://codeforces.com/blog/SpyrosAliv
