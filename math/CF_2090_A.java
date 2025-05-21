@@ -1,3 +1,5 @@
+package math;
+
 import java.util.Scanner;
 
 public class CF_2090_A {
